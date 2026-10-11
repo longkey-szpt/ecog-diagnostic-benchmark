@@ -1,0 +1,9 @@
+# Large data and artifacts (not distributed with the repository)
+notebooks/data/
+checkpoints/
+data_raw/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
