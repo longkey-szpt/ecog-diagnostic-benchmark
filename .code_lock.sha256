@@ -1,0 +1,5 @@
+# Regression benchmark top-level code lock (per-file SHA256)
+# Generated 2026-10-10
+# 2 files (verify: sha256sum -c .code_lock.sha256 from this directory)
+6c23cf0b627937d957b3b5492f2803c51d11148fe5ed8cc8c4b4e12d72daf32a *README.md
+b02b81ae53abaae07cf77ad28a7a29a2b25657e32f07ffe94631095e33bb6287 *data/README.md
